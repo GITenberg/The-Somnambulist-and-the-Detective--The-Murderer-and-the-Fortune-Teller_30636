@@ -1,0 +1,29 @@
+_repo: The-Somnambulist-and-the-Detective--The-Murderer-and-the-Fortune-Teller_30636
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30636-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pinkerton, Allan
+    birthdate: 1819
+    deathdate: 1884
+    gutenberg_agent_id: '7587'
+    url: http://www.gutenberg.org/2009/agents/7587
+    wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
+description: ''
+gutenberg_issued: '2009-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- United States'
+- !lcsh 'Detectives -- United States'
+title: The Somnambulist and the Detective; The Murderer and the Fortune Teller
+url: http://www.gutenberg.org/ebooks/30636
